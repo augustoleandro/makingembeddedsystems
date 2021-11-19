@@ -14,6 +14,4 @@ The device must be easy to install, that is, it must not require electrical infr
 
 ## Diagram
 
-![image info](../lesson01/diagram.jpge)
-
-https://github.com/augustoleandro/makingembeddedsystems/blob/main/lesson01/diagram.jpeg
+![image info](./diagram.jpeg)
