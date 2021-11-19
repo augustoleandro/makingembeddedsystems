@@ -14,4 +14,4 @@ The device must be easy to install, that is, it must not require electrical infr
 
 ## Diagram
 
-![image info](./diagram.jpge)
+![image info](diagram.jpge)
